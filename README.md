@@ -1,5 +1,5 @@
 # Hyprland-rice-dotfiles-ARCH!
 
-[screen-1681587136](https://user-images.githubusercontent.com/88334156/232251284-3ae77af7-b489-4d58-a942-d4ba7f65751d.png)
-![screen-1681587700](https://user-images.githubusercontent.com/88334156/232251298-f43a6438-0d1d-4f8e-92d8-fd696bb75105.png)
-![screen-1681587175](https://user-images.githubusercontent.com/88334156/232251299-65f909b5-b18c-4c06-9040-92144c545e2c.png)
+![screen-1681587175](https://user-images.githubusercontent.com/88334156/232251413-b8c94242-8f24-44cb-9155-56698e6b666b.png)
+![screen-1681587700](https://user-images.githubusercontent.com/88334156/232251436-3d74ac68-4fec-4fb4-92cd-1b10c31dadd4.png)
+![screen-1681587136](https://user-images.githubusercontent.com/88334156/232251439-6df94974-faee-446c-a36d-76c652f94a37.png)
